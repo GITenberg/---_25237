@@ -1,0 +1,30 @@
+_repo: '---_25237'
+_version: 0.1.0
+alternative_title: Kuai Shi Zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wuseshizhuren, ju ren 1738
+    aliases:
+    - Xu, Gengya
+    - Xu, Xiaowen
+    - Xu, Shukui
+    - 五色石主人
+    gutenberg_agent_id: '31172'
+    url: http://www.gutenberg.org/2009/agents/31172
+description: ''
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25237'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 快士傳
+url: http://www.gutenberg.org/ebooks/25237
